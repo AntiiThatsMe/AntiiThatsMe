@@ -1,14 +1,14 @@
 ### Heyo <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-Hi I'm Antii, your typical loser and apprentice programmer/modder.
+Yo I'm Antii, apprentice FNF programmer/modder.
 
 I work on some Friday Night Funkin' mods, biggest one being Phobic Funkin'!
 
 
 - 🔭 &nbsp;I’m currently working on Phobic Funkin' 🏳️‍🌈
-- 🌱 &nbsp;I’m currently learning Haxe
+- 🌱 &nbsp;I’m currently learning Haxe n Lua
 - 💬 &nbsp;Please don't ask me about anything, I will most likely not know 😭
-- ⚡ &nbsp;Fun fact: Cats are pretty cool
+- ⚡ &nbsp;Fun fact: Cats are fucking awesome
 
 
 
