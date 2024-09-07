@@ -1,6 +1,7 @@
 ### yo
 
 hi i am antii i can code i think
+i do haxe and python
 
 i work on phobic funkin!!
 
